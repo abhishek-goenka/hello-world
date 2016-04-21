@@ -1,2 +1,4 @@
 # hello-world
-My first Github repository to get into the github universe.
+Looks a bit intimidating but very promising.
+
+Lorem ipsum dolor sit amet.
